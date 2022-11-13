@@ -1,0 +1,29 @@
+.Pizza{
+height: 80%;
+width: 80%;
+position: relative;
+}
+.pineapple{
+height: 40%;
+width: 50%;
+position: relative;
+margin-left: 10%;
+margin-top:-110%;
+}
+.Besal{
+    height: 100%;
+    width: 80%;
+    position: relative;
+    display: flex;
+    margin-top: -85%;
+}
+.Pizza{
+height: 100%;
+width: 100%;
+position: relative;
+}
+
+.Pizzaclass{
+    position: absolute;
+}
+
